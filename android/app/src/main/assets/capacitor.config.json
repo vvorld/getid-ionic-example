@@ -1,0 +1,6 @@
+{
+	"appId": "ee.getid.ionic",
+	"appName": "getid-example",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
